@@ -105,7 +105,7 @@ Feel free to reach out to me for any inquiries, collaborations, or just to say h
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-naimul-hasan-emon/)
 [![facebook](https://img.shields.io/badge/facebook-1565C0?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mustakim.emon.7/)
 [![instagram](https://img.shields.io/badge/instagram-EC407A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naimulhasan_emon/)
-[![whatsapp](https://img.shields.io/badge/whatsapp-64DD17?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:01745899574)
+[![whatsapp](https://img.shields.io/badge/whatsapp-64DD17?style=for-the-badge&logo=whatsapp&logoColor=white)](+8801745899574)
 [![twitter](https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Emon12940622)
 
 For any inquiries or issues, please contact Md. Naimul Hasan at [your-email@example.com](mailto:your-email@example.com).
