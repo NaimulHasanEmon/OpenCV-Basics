@@ -21,21 +21,21 @@ This repository provides a series of tutorials that demonstrate the basics of Op
 To run the tutorials in this repository, follow these steps:
 
 1. **Clone the repository:**
-   \`\`\`bash
+   ```bash
    git clone https://github.com/NaimulHasanEmon/OpenCV-Basics.git
    cd OpenCV-Basics
-   \`\`\`
+   ```
 
 2. **Create a virtual environment (optional but recommended):**
-   \`\`\`bash
+   ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   \`\`\`
+   ```
 
 3. **Install the required dependencies:**
-   \`\`\`bash
+   ```bash
    pip install -r requirements.txt
-   \`\`\`
+   ```
 
 ## Tutorials
 
@@ -65,30 +65,34 @@ Each tutorial is located in its own directory and includes a README file with de
 We welcome contributions to enhance the tutorials and examples in this repository. If you have any suggestions, bug reports, or pull requests, please follow these steps:
 
 1. **Fork the repository:**
-   \`\`\`bash
+   ```bash
    git fork https://github.com/NaimulHasanEmon/OpenCV-Basics.git
-   \`\`\`
+   ```
 
 2. **Create a new branch:**
-   \`\`\`bash
+   ```bash
    git checkout -b feature/YourFeatureName
-   \`\`\`
+   ```
 
 3. **Make your changes and commit them:**
-   \`\`\`bash
+   ```bash
    git commit -m "Add new feature"
-   \`\`\`
+   ```
 
 4. **Push to your forked repository:**
-   \`\`\`bash
+   ```bash
    git push origin feature/YourFeatureName
-   \`\`\`
+   ```
 
 5. **Create a pull request:** Describe your changes and submit the pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+## 🚀 About Me
+I'm a MERN stack developer and an undergraduate student of CSE. Besides I am working on Machine Learning (ML), Computer Vision and problem solving to enrich my coding skills.
+
+
 
 ## Contact
 
