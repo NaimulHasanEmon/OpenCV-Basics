@@ -42,21 +42,21 @@ To run the tutorials in this repository, follow these steps:
 
 ## Tutorials
 
-1. **Image Processing:**
+1. 🖼️ **Image Processing:**
    - Reading and displaying images
    - Basic image operations (resize, crop, rotate)
    - Color space conversions
    - Image filtering (blur, sharpen, edge detection)
 
-2. **Feature Detection:**
+2. ✨ **Feature Detection:**
    - Corner detection (Harris, Shi-Tomasi)
    - SIFT, SURF, and ORB
 
-3. **Object Tracking:**
+3. 🚀 **Object Tracking:**
    - MeanShift and CamShift
    - Tracking with OpenCV
 
-4. **Video Processing:**
+4. 📹 **Video Processing:**
    - Reading and writing videos
    - Background subtraction
    - Frame differencing
