@@ -93,10 +93,19 @@ We welcome contributions to enhance the tutorials and examples in this repositor
 
 
 ## 🚀 About Me
-I'm a MERN stack developer and an undergraduate student of CSE. Besides I am working on Machine Learning (ML), Computer Vision and problem solving to enrich my coding skills.
+I am Md. Naimul Hasan, a dedicated computer science undergraduate with a strong passion for software development, specializing in the MERN stack. My expertise extends to machine learning, computer vision, and problem-solving, where I actively pursue complex challenges to enhance my coding proficiency.
 
 
+## 🔗 Contacts
 
-## Contact
+Feel free to reach out to me for any inquiries, collaborations, or just to say hi!
 
-For any inquiries or issues, please contact Naimul Hasan Emon at [your-email@example.com](mailto:your-email@example.com).
+[![gmail](https://img.shields.io/badge/gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naimulhasan.cse@gmail.com)
+[![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaimulHasanEmon)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-naimul-hasan-emon/)
+[![facebook](https://img.shields.io/badge/facebook-1565C0?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mustakim.emon.7/)
+[![instagram](https://img.shields.io/badge/instagram-EC407A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naimulhasan_emon/)
+[![twitter](https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Emon12940622)
+
+
+For any inquiries or issues, please contact Md. Naimul Hasan at [your-email@example.com](mailto:your-email@example.com).
