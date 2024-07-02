@@ -3,6 +3,9 @@
 
 OpenCV Basics is a collection of fundamental tutorials and examples designed to help beginners get started with OpenCV, the popular computer vision library. This repository covers essential concepts and operations in computer vision using OpenCV.
 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/800px-OpenCV_Logo_with_text_svg_version.svg.png" alt="Logo" width="200" height="250">
+
 ## Table of Contents
 
 - [Introduction](#introduction)
