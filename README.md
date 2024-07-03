@@ -6,7 +6,7 @@ OpenCV Basics is a collection of fundamental tutorials and examples designed to 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/800px-OpenCV_Logo_with_text_svg_version.svg.png" alt="Logo" width="200" height="250">
 
-## 📖 Table of Contents
+## 🗂️ Table of Contents
 
 - [Introduction](#introduction)
 - [Installation](#installation)
@@ -19,7 +19,7 @@ OpenCV Basics is a collection of fundamental tutorials and examples designed to 
 
 This repository provides a series of tutorials that demonstrate the basics of OpenCV. Each tutorial is designed to be simple and easy to follow, covering topics such as image processing, feature detection, and object tracking.
 
-## 🗝️ Installation
+## ⬇️ Installation
 
 To run the tutorials in this repository, follow these steps:
 
@@ -52,11 +52,11 @@ To run the tutorials in this repository, follow these steps:
    - Corner detection (Harris, Shi-Tomasi)
    - SIFT, SURF, and ORB
 
-3. 🚀 **Object Tracking:**
+3. 🛸 **Object Tracking:**
    - MeanShift and CamShift
    - Tracking with OpenCV
 
-4. 📹 **Video Processing:**
+4. 🎦 **Video Processing:**
    - Reading and writing videos
    - Background subtraction
    - Frame differencing
