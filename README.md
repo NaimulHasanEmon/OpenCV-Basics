@@ -6,7 +6,7 @@ OpenCV Basics is a collection of fundamental tutorials and examples designed to 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/800px-OpenCV_Logo_with_text_svg_version.svg.png" alt="Logo" width="200" height="250">
 
-## Table of Contents
+## 📖 Table of Contents
 
 - [Introduction](#introduction)
 - [Installation](#installation)
@@ -15,11 +15,11 @@ OpenCV Basics is a collection of fundamental tutorials and examples designed to 
 - [License](#license)
 - [Contact](#contact)
 
-## Introduction
+## 📢 Introduction
 
 This repository provides a series of tutorials that demonstrate the basics of OpenCV. Each tutorial is designed to be simple and easy to follow, covering topics such as image processing, feature detection, and object tracking.
 
-## Installation
+## 🗝️ Installation
 
 To run the tutorials in this repository, follow these steps:
 
@@ -40,7 +40,7 @@ To run the tutorials in this repository, follow these steps:
    pip install -r requirements.txt
    ```
 
-## Tutorials
+## 👨‍🏫 Tutorials
 
 1. 🖼️ **Image Processing:**
    - Reading and displaying images
@@ -63,7 +63,7 @@ To run the tutorials in this repository, follow these steps:
 
 Each tutorial is located in its own directory and includes a README file with detailed explanations and code examples.
 
-## Contributing
+## 🙌 Contributing
 
 We welcome contributions to enhance the tutorials and examples in this repository. If you have any suggestions, bug reports, or pull requests, please follow these steps:
 
