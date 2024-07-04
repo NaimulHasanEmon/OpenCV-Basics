@@ -1,7 +1,4 @@
-###### This project uses OpenCV to detect and track multiple colors (white, yellow, red, green)
-# in real-time video from a webcam. It identifies these colors using predefined HSV ranges,
-# marks their positions with circles of corresponding colors on the screen, and updates their
-# positions continuously as the objects move.
+# This project uses OpenCV to detect and track multiple colors (white, yellow, red, green) in real-time video from a webcam. It identifies these colors using predefined HSV ranges, marks their positions with circles of corresponding colors on the screen, and updates their positions continuously as the objects move.
 
 import cv2
 import numpy as np
