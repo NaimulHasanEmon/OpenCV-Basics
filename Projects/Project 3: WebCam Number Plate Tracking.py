@@ -1,3 +1,5 @@
+# This project captures video frames to detect and recognize car license plates using OpenCV. It draws rectangles around detected plates, saves the plate image when 'q' is pressed, and displays a message indicating the scan was saved. It uses the Haar Cascade classifier for detection.
+
 import cv2
 
 cap = cv2.VideoCapture('Computer Vision\Videos\Car License Plate\sample9.webm')
